@@ -38,7 +38,6 @@ export default function Hero() {
       id="home"
       className="relative min-h-screen bg-gray-50 overflow-hidden"
     >
-      {/* Background pattern */}
       <div className="absolute inset-0">
         <div className="absolute inset-0 bg-gradient-to-br from-blue-50 via-gray-50 to-white" />
         <div className="absolute inset-0 opacity-30">

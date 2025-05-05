@@ -39,7 +39,7 @@ export default function Navbar() {
                 R&<span className="text-blue-600">A</span>
               </div>
               <span className="ml-2 hidden md:inline-block text-sm font-medium text-gray-600">
-                comunicação Visual
+                Comunicação Visual
               </span>
             </div>
 

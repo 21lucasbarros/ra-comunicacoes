@@ -86,10 +86,10 @@ export default function About() {
               }}
             >
               <h3 className="text-2xl font-bold text-blue-900 mb-4">
-                R&a comunicação Visual
+                R&A Comunicação Visual
               </h3>
               <p className="text-gray-700 mb-4">
-                Fundada em 1999, a R&a comunicação Visual traz mais de{" "}
+                Fundada em 1999, a R&A Comunicação Visual traz mais de{" "}
                 {yearsSince1999} anos de experiência em mídias exteriores e
                 eventos. Nossa jornada começou com o compromisso de oferecer
                 soluções visuais impactantes que conectam marcas ao seu público.

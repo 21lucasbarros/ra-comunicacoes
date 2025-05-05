@@ -1,4 +1,6 @@
 import About from "./components/About";
+import Contact from "./components/Contact";
+import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import Impact from "./components/Impact";
 import Navbar from "./components/Navbar";
@@ -12,6 +14,8 @@ export default function App() {
       <About />
       <Services />
       <Impact />
+      <Contact />
+      <Footer />
     </div>
   );
 }
