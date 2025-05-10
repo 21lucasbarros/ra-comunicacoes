@@ -117,21 +117,21 @@ export default function Hero() {
                 <div className="relative grid grid-cols-12 grid-rows-6 gap-4 z-10">
                   <div className="col-span-8 row-span-6 rounded-2xl overflow-hidden shadow-xl">
                     <img
-                      src="../assets/image/indalecio.jpeg"
+                      src="../assets/image/indalecio.png"
                       alt="Outdoor advertising"
                       className="w-full h-auto object-cover"
                     />
                   </div>
                   <div className="col-span-4 row-span-3 rounded-xl overflow-hidden shadow-lg">
                     <img
-                      src="../assets/image/indalecio.jpeg"
+                      src="../assets/image/indalecio.png"
                       alt="Digital billboard"
                       className="w-full h-full object-cover"
                     />
                   </div>
                   <div className="col-span-4 row-span-3 rounded-xl overflow-hidden shadow-lg">
                     <img
-                      src="../assets/image/indalecio.jpeg"
+                      src="../assets/image/indalecio.png"
                       alt="Event display"
                       className="w-full h-full object-cover"
                     />

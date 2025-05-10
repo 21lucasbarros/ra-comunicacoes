@@ -4,7 +4,9 @@ import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import Impact from "./components/Impact";
 import Navbar from "./components/Navbar";
+import Portfolio from "./components/Portfolio";
 import Services from "./components/Services";
+import Testimonials from "./components/Testimonials";
 
 export default function App() {
   return (
@@ -14,6 +16,8 @@ export default function App() {
       <About />
       <Services />
       <Impact />
+      <Portfolio />
+      <Testimonials />
       <Contact />
       <Footer />
     </div>

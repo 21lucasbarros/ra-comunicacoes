@@ -89,7 +89,7 @@ export default function Footer() {
           </div>
         </div>
 
-        <div className="border-t border-gray-200 mt-12 pt-8 text-center text-blue-600 text-sm">
+        <div className="border-t border-gray-200 mt-12 pt-8 text-center text-zinc-900 text-sm">
           <p>
             Site desenvolvido por Lucas Barros Simon para R&A Comunicação Visual
             • {currentYear}
